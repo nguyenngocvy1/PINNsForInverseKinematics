@@ -1,0 +1,12 @@
+Loss Distances:
+[11.22366669 11.20922762 11.19480008 ...  1.60093116  1.60719413
+  1.6133609 ]mm
+
+Average Loss Distances:
+7.691256191873326mm
+
+Max Loss Distances:
+12.625820423797006mm
+
+Min Loss Distances:
+1.1095583503332056mm
