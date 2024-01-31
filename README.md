@@ -100,4 +100,5 @@ python control.py
 - **Output Label:** Displays output information, such as current angles or errors.
 
 ## Contact:
-For any inquiries or issues, please contact vy070401@gmail.com.
+- For any inquiries or issues, please contact vy070401@gmail.com.
+- Read more about thesis at https://drive.google.com/file/d/1h6M1KFUHzOfEPbAMkBFqW50KbSbnVCLT/view?usp=sharing
